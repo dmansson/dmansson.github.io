@@ -1,0 +1,43 @@
+body{
+	background-color: #929599;
+}
+
+#header1{
+	font-family: Myriad Pro;
+	font-size: 100px;
+	text-align: center;
+	margin-top: 15%;
+	color: white;
+}
+#findme{
+	font-family: Myriad Pro;
+	font-size: 50px;
+	text-align: center;
+	margin-top: -5%;
+	color: white;
+	}
+/*#FB, #IG, #CV{
+	font-family: Myriad Pro;
+	font-size: 50px;
+	text-align: center;
+	margin-top: -5%;
+	color: white;
+
+
+}*/
+a:hover{
+	text-decoration: underline;
+}
+a{
+	text-decoration: none;
+	font-family: Myriad Pro;
+	font-size: 50px;
+	margin-top: -5%;
+	color: white;
+	
+}
+section{
+	text-align: center;
+	padding-top: -100%;
+}
+
